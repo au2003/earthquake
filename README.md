@@ -1,0 +1,2 @@
+# earthquake
+earthquake prediction model
